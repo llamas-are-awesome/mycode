@@ -4,7 +4,7 @@ Tracking my code
 # mycode (Project Title)
 
 Just a repo while I learn what the heck I am doing
-
+like version control
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine
